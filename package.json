@@ -1,0 +1,32 @@
+{
+    "name": "react-productivity-pack",
+    "displayName": "React Productivity Pack",
+    "description": "extension pack to improve productivity in React",
+    "icon": "icon.png",
+    "publisher": "ickarakurt",
+    "repository": "https://github.com/ickarakurt/vscode-react-productivity-pack",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "eamodio.gitlens",
+        "oderwat.indent-rainbow",
+        "alefragnani.project-manager",
+        "ChakrounAnas.turbo-console-log",
+        "ms-azuretools.vscode-docker",
+        "mikestead.dotenv",
+        "dbaeumer.vscode-eslint",
+        "GitHub.copilot",
+        "christian-kohler.path-intellisense",
+        "esbenp.prettier-vscode",
+        "naumovs.color-highlight",
+        "aaron-bond.better-comments",
+        "dsznajder.es7-react-js-snippets"
+    ]
+}
